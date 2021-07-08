@@ -1,9 +1,15 @@
+html{
+    background-color: rgb(204, 167, 167);
+}
 .header-sec{
     font-size: 5rem;
     text-align: center;
     background: url(img/hero.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
     height: 40rem;
     color: darkgray;
+
 }
 h1{
     text-align: center;
@@ -40,7 +46,7 @@ p{
 }
 a{
     display: block;
-    color: firebrick;
+    color: rgb(0, 0, 0);
 }
 .site1{
     float: left;
@@ -60,7 +66,7 @@ a{
 }
 li{
     display: block;
-    color: darkred;
+    color: rgb(0, 0, 0);
     font-size: 1rem;
     line-height: 1rem;
 }
