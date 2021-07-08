@@ -2,7 +2,8 @@
     font-size: 5rem;
     text-align: center;
     background: url(img/hero.jpg);
-    height: 18rem;
+    background-size: cover;
+    height: 15rem;
 }
 h1{
     text-align: center;
