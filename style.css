@@ -8,8 +8,13 @@ html{
     background-position: center;
     background-repeat: no-repeat;
     height: 40rem;
+    width: 100%;
     color: darkgray;
+    display: block;
 
+}
+.s-{
+    margin-top: 24rem;
 }
 h1{
     text-align: center;
@@ -68,6 +73,7 @@ a{
     border-radius: 7px;
     height: 3rem;
     font-weight: bold;
+    font-size: 1.2rem;
 }
 .site2{
     float: right;
@@ -75,22 +81,32 @@ a{
     border-radius: 7px;
     height: 3rem;
     font-weight: bold;
+    font-size: 1.2rem;
+    margin-top: 2rem;
 }
 h3{
     font-size: 25px;
     font-family: cursive;
+    color: rgba(255, 0, 0, 0.467);
 }
 .quotes{
     background-color: darkgray;
     text-align: left;
     font-size: 1.4rem;
     border-radius: 10px;
+    margin-top: 8rem;
 
 }
 .list{
     font-size: 2rem;
     font-family: cursive;
 
+}
+ul{
+    list-style-type:circle;
+}
+ol{
+    list-style-type: decimal-leading-zero;
 }
 li{
     display: block;
@@ -103,4 +119,5 @@ li{
     text-align: right;
     font-size: 1rem;
     border-radius: 10px;
+    padding-right: 2rem;
 }
