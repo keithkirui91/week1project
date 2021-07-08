@@ -47,11 +47,17 @@ p{
     color: ghostwhite;
 
 }
+.myprojects{
+    background-color: gray;
+    height: 6rem;
+    border-radius: 10px;
+}
 .prev-projects{
-    background-color: brown;
+    background-color: rgb(114, 110, 110);
     border-radius: 20px;
     text-align: center;
 }
+
 a{
     display: block;
     color: rgb(0, 0, 0);
