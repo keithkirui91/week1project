@@ -9,6 +9,8 @@ h1{
     text-align: center;
     text-decoration: underline;
     font-family: 'Times New Roman', Times, serif;
+    background: gray;
+    border-radius: 10px;
 
 
 }
@@ -36,6 +38,10 @@ p{
     border-radius: 20px;
     text-align: center;
 }
+a{
+    display: block;
+    color: firebrick;
+}
 .site1{
     float: left;
     background-color: darkcyan;
@@ -49,13 +55,17 @@ p{
 .quotes{
     background-color: darkgray;
     text-align: left;
+    font-size: 1.2rem;
 
 }
 li{
     display: block;
     color: darkred;
+    font-size: 1rem;
+    line-height: 1rem;
 }
 .artists{
     background-color: rgb(128, 128, 128);
     text-align: right;
+    font-size: 1.2rem;
 }
