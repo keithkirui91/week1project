@@ -33,11 +33,13 @@ h1{
     text-align: center;
     background-color: rgb(46, 46, 46);
     color: rgb(0, 0, 0);
+    height: 7rem;
 }
 p{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     background-color: dimgray;
+    height: 6rem;
 }
 .prev-projects{
     background-color: brown;
