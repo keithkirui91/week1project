@@ -2,7 +2,6 @@
     font-size: 5rem;
     text-align: center;
     background: url(img/hero.jpg);
-    position: absolute;
     height: 40rem;
     color: darkgray;
 }
@@ -30,6 +29,7 @@ h1{
 p{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    background-color: dimgray;
 }
 .prev-projects{
     background-color: brown;
@@ -43,7 +43,7 @@ p{
 }
 .site2{
     float: right;
-    background-color: darkblue;
+    background-color: rgb(107, 107, 153);
     border-radius: 7px;
 }
 .quotes{
@@ -52,10 +52,10 @@ p{
 
 }
 li{
-    display: inline;
+    display: block;
     color: darkred;
 }
 .artists{
-    background-color: darkkhaki;
+    background-color: rgb(128, 128, 128);
     text-align: right;
 }
