@@ -2,7 +2,7 @@
     font-size: 5rem;
     text-align: center;
     background: url(img/hero.jpg);
-    height: 7rem;
+    height: 18rem;
 }
 h1{
     text-align: center;
@@ -22,6 +22,8 @@ h1{
 .cont-2{
     display: inline;
     text-align: center;
+    background-color: rgb(46, 46, 46);
+    color: #fff;
 }
 p{
     font-family: 'Times New Roman', Times, serif;
