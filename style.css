@@ -1,5 +1,5 @@
 html{
-    background-color: rgb(204, 167, 167);
+    background-color: rgb(31, 0, 0);
 }
 .header-sec{
     font-size: 5rem;
@@ -40,6 +40,7 @@ p{
     text-align: center;
     background-color: dimgray;
     height: 6rem;
+    border-radius: 10px;
 }
 .prev-projects{
     background-color: brown;
@@ -60,10 +61,15 @@ a{
     background-color: rgb(107, 107, 153);
     border-radius: 7px;
 }
+h3{
+    font-size: 25px;
+    font-family: cursive;
+}
 .quotes{
     background-color: darkgray;
     text-align: left;
     font-size: 1.4rem;
+    border-radius: 10px;
 
 }
 .list{
@@ -81,4 +87,5 @@ li{
     background-color: rgb(128, 128, 128);
     text-align: right;
     font-size: 1rem;
+    border-radius: 10px;
 }
