@@ -61,22 +61,22 @@ a{
 .quotes{
     background-color: darkgray;
     text-align: left;
-    font-size: 1.2rem;
+    font-size: 2rem;
 
 }
 .list{
-    font-size: 1rem;
+    font-size: 2rem;
     font-family: cursive;
-    
+
 }
 li{
     display: block;
     color: rgb(0, 0, 0);
-    font-size: 1rem;
-    line-height: 1rem;
+    font-size: 2rem;
+    line-height: 2rem;
 }
 .artists{
     background-color: rgb(128, 128, 128);
     text-align: right;
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
