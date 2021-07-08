@@ -64,14 +64,14 @@ a{
 }
 .site1{
     float: left;
-    background-color: darkcyan;
+    background-color: rgb(233, 59, 59);
     border-radius: 7px;
     height: 3rem;
     font-weight: bold;
 }
 .site2{
     float: right;
-    background-color: rgb(107, 107, 153);
+    background-color: rgb(233, 59, 59);
     border-radius: 7px;
     height: 3rem;
     font-weight: bold;
