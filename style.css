@@ -2,7 +2,7 @@
     font-size: 5rem;
     text-align: center;
     background: url(img/hero.jpg);
-    background-size: cover;
+    position: absolute;
     height: 15rem;
 }
 h1{
@@ -24,9 +24,24 @@ h1{
     display: inline;
     text-align: center;
     background-color: rgb(46, 46, 46);
-    color: #fff;
+    color: rgb(0, 0, 0);
 }
 p{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+}
+.prev-projects{
+    background-color: brown;
+    border-radius: 20px;
+    text-align: center;
+}
+.site1{
+    float: left;
+    background-color: darkcyan;
+    border-radius: 7px;
+}
+.site2{
+    float: right;
+    background-color: darkblue;
+    border-radius: 7px;
 }
