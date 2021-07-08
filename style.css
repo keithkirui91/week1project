@@ -4,6 +4,7 @@
     background: url(img/hero.jpg);
     position: absolute;
     height: 15rem;
+    color: darkgray;
 }
 h1{
     text-align: center;
@@ -44,4 +45,15 @@ p{
     float: right;
     background-color: darkblue;
     border-radius: 7px;
+}
+.quotes{
+    background-color: darkgray;
+
+}
+li{
+    display: inline;
+    color: darkred;
+}
+.artists{
+    background-color: darkkhaki;
 }
