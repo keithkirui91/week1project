@@ -1,0 +1,23 @@
+.header-sec{
+    font-size: 5rem;
+    text-align: center;
+    background: url(img/hero.jpg);
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+.containor{
+    padding: 2rem;
+    align-items: center;
+}
+.cont-sec{
+    background:rgba(131, 42, 42, 0);
+    width: 100%;
+}
+.cont-2{
+    display: inline;
+}
