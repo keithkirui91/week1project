@@ -3,7 +3,7 @@
     text-align: center;
     background: url(img/hero.jpg);
     position: absolute;
-    height: 15rem;
+    height: 40rem;
     color: darkgray;
 }
 h1{
@@ -48,6 +48,7 @@ p{
 }
 .quotes{
     background-color: darkgray;
+    text-align: left;
 
 }
 li{
@@ -56,4 +57,5 @@ li{
 }
 .artists{
     background-color: darkkhaki;
+    text-align: right;
 }
