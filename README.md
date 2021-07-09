@@ -12,3 +12,5 @@ Kirui Keith k. Portfolio design
 ##licence and copyright
 
 Kirui  Keith K., Portfolio design
+
+https://keithkirui91.github.io/week1project/:link to live site
